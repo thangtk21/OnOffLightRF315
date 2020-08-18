@@ -1,0 +1,9 @@
+Added Component: Designator=J1(PAD_WITH_HOLE_4MMx1.5MM)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J2(PAD_WITH_HOLE_4MMx1.5MM)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5VDC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Member To Class: ClassName=LightOnOff Member=Component J1 4MMx1.5MM
+Added Member To Class: ClassName=LightOnOff Member=Component J2 4MMx1.5MM
+Added Room: Name=LightOnOff

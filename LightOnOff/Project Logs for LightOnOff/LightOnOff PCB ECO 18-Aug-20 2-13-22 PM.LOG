@@ -1,0 +1,11 @@
+Added Component: Designator=TB1(KF1000_2P)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TB2(KF1000_2P)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetRL1_NO Pin=TB1-1
+Added Pin To Net: NetName=NetTB1_2 Pin=TB1-2
+Added Pin To Net: NetName=NetTB1_2 Pin=TB2-1
+Added Pin To Net: NetName=NetRL1_COM Pin=TB2-2
+Added Member To Class: ClassName=LightOnOff Member=Component TB1 KF1000
+Added Member To Class: ClassName=LightOnOff Member=Component TB2 KF1000
+Added Room: Name=LightOnOff
